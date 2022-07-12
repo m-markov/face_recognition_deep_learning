@@ -2,7 +2,6 @@
 # Tested with OpenCV3
 
 import cv2
-
 cap = cv2.VideoCapture(0)
 
 # Create the haar cascade
